@@ -8,7 +8,7 @@ def leftShift(arr: List[int], K: int) -> List[int]:
         
     return arr[K:] + [0] * K
 
-# --- Test in VS Code ---
+
 if __name__ == "__main__":
     arr = [10, 20, 30, 40, 50]
     K = 2
