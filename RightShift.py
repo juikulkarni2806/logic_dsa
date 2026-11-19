@@ -16,7 +16,7 @@ def rightShift(arr: List[int], K: int) -> List[int]:
         
     return arr
 
-# --- Test in VS Code ---
+
 if __name__ == "__main__":
     arr = [10, 20, 30, 40, 50]
     K = 2

@@ -9,7 +9,7 @@ def insertAtPosition(arr: List[int], X: int, P: int) -> List[int]:
         
     return arr
 
-# --- Test in VS Code ---
+
 if __name__ == "__main__":
     arr = [10, 20, 30, 40, 50]
     X = 99
