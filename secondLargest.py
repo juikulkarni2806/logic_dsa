@@ -10,4 +10,4 @@ def second_largest(arr: List[int]) -> int:
             second = num
     return second if second != float('-inf') else -1
 
-print("Second Largest:", second_largest([12, 35, 1, 10, 34, 1]))  # Output: 34
+print("Second Largest:", second_largest([12, 35, 1, 10, 43, 1]))  # Output: 34
