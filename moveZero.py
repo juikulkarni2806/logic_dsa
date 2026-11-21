@@ -11,4 +11,4 @@ def move_zeros(nums: List[int]) -> List[int]:
         insert_pos += 1
     return nums
 
-print("Moved Zeros:", move_zeros([0, 1, 0, 3, 12]))  # Output: [1, 3, 12, 0, 0]
+print("Moved Zeros:", move_zeros([5, 1, 6, 3, 12,0,11,15,0,24,12,0,122,45]))  # Output: [1, 3, 12, 0, 0]
