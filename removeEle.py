@@ -8,5 +8,5 @@ class Solution:
 
         return j
 
-    num=[1,3,2,4,3,5]
-    removeElement(1,nums=[1,3,2,4,2,3,21,3],val=3)
+    nums=[1,3,2,4,3,5]
+    removeElement(nums=[1,3,2,4,2,3,21,3],val=3)
