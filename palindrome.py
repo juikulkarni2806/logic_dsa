@@ -7,4 +7,4 @@ def is_palindrome(s: str) -> bool:
         right -= 1
     return True
 
-print("Is 'Jui' palindrome?:", is_palindrome("Jui"))  # Output: True
+print("Is 'Ahilyadevi' palindrome?:", is_palindrome("Ahilyadevi"))  # Output: True
