@@ -14,7 +14,7 @@ def anagram(n1,n2):
             return False
     return True
 
-n1=1221    
-n2=1122
+n1=1223    
+n2=1133
 res=anagram(n1,n2)
 print(f"{n1} and {n2} are anagram: {res}")
