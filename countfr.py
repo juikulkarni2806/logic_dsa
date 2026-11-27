@@ -4,5 +4,5 @@ def countFrequency(arr):
         freq[num-900]+=1
     return freq
 
-arr=[901,901,902,906,910]
+arr=[901,901,902,906]
 print(countFrequency(arr))
